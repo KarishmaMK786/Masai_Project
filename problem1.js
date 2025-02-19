@@ -9,3 +9,5 @@ if(gender == "male" && age>=21) {
     console.log("Can't Marry");
 }
 
+console.log("I'm Feeling Hungry, Please Buy Chocolate for me");
+
